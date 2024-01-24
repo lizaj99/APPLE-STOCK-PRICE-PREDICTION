@@ -1,0 +1,1 @@
+Link to the dataset: https://finance.yahoo.com/quote/AAPL/history/?guccounter=1&guce_referrer=aHR0cHM6Ly9sLm1lc3Nlbmdlci5jb20v&guce_referrer_sig=AQAAADnLicnkx9aF_rHvtRM3NZY7HtDl3sYcUHDuzUz4pszJ_XUHjcsiofn3zRDDt_VQ_DcpzyR5FmdkAbjVVIqByt1cUhW7UXGsdkgHgw5-EPXfatikIF1Sm8zK_-Qtvfe5-hx6zJkJ9eXVfOhTmYtGtMqHzuBWFnHovUHfnK3grnSO
